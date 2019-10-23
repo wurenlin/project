@@ -1,0 +1,111 @@
+body {
+    width: 800px;
+    margin: 30px auto;
+    font-family: "方正兰亭黑_GBK";
+    letter-spacing: 1px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.5);
+}
+
+#header {
+    height: 150px;
+    background-color: gray;
+    color: white;
+}
+
+#header .left {
+    float: left;
+    margin: 15px 0 0 40px;
+}
+
+#header .left p {
+    font-size: larger;
+}
+
+#header .right {
+    float: right;
+    margin: 21.5px 20px 0 0;
+
+}
+
+#header img {
+    width: 120px;
+    height: 120px;
+    vertical-align: bottom;
+}
+
+#header .right p {
+    margin: 8px 0;
+    font-size: 18px;
+}
+
+#info {
+    height: 200px;
+}
+
+#info .left {
+    padding-top: 15px;
+    float: left;
+    height: 100%;
+    width: 75%;
+}
+
+.bar1 {
+    height: 35px;
+    width: 725px;
+    background-color: gray;
+    color: white;
+    line-height: 35px;
+    padding-left: 75px;
+    font-size: larger;
+}
+
+#info ul {
+    height: 115px;
+    width: 560px;
+    margin: 0;
+}
+
+#info li {
+    width: 186.5px;
+    margin-top: 17px;
+    float: left;
+    list-style-type: none;
+    font-size: 14px;
+}
+
+#info .right {
+    float: right;
+    height: 100%;
+    width: 25%;
+}
+
+#info .right img {
+    margin: 25px;
+    height: 75%;
+    width: 75%;
+}
+
+#self-evaluation {
+    padding-left: 40px;
+    padding-right: 25px;
+    line-height: 1.5;
+}
+
+.bar2 {
+    background-color: gray;
+    height: 35px;
+    width: 725px;
+    color: white;
+    line-height: 35px;
+    padding-left: 75px;
+    font-size: larger;
+}
+
+#exp ul {
+    padding-left: 80px;
+    margin: 0;
+}
+
+#exp li {
+    line-height: 1.5;
+}
